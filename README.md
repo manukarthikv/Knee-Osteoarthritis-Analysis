@@ -4,7 +4,7 @@ Some medical procedures are necessary to identify this pathology, such as X-rays
 
 The severity of osteoarthritis was classified into 5 levels based on KL score, from the healthy level to the severe level, where the greater the degree of severity, the smaller the spacing of the joint.
 
-KL score:
+-KL score:
 Grade 0: Healthy
 Grade 1: Doubtful
 Grade 2: Minimal
