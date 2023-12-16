@@ -15,6 +15,6 @@ The following image shows the different levels from Knee Osteoarthritis Dataset 
 
 
 
-To Run to project clone cd knee_OA_dl_app and then 
+To Run to project clone it then cd knee_OA_dl_app and then 
 1)venv/Scripts/activate.   
 2)streamlit run app/app.py
