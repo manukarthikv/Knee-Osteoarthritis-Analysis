@@ -1,0 +1,13 @@
+customtkinter
+PyAutoGUI
+PyGetWindow
+Pillow
+numpy
+tensorflow
+keras
+pandas
+matplotlib
+scikit-learn
+colorama
+matplotlib
+seaborn
